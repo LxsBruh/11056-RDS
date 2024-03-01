@@ -1,2 +1,9 @@
 # 11056-RDS
 website files for 11056 
+
+Reflection
+For this website I chose to keep it very simple and light to better understand how to develop in both HTML and CSS. Being someone who has barely used any CSS or HTML it was difficult to wrap around the main concepts and how to build from scratch even after looking through various websites’ inspect pages. For research the main source of information was from W3Schools (https://www.w3schools.com/). This page helped further understand how to use <div> and how to call from the HTML stylesheet into the CSS sheet. This was one of my main challenges as I could not work out why my changes were either not happening at all or happening to text that I did not know was in the same section. 
+
+For design choices, I originally wanted to create multiple columns to slot my <div> sections into. I originally got this idea from pages like The Canberra Modern page (https://canberramodern.com/). The look I wanted was for it to be clean and sit well on the page. I do think even without the columns I was able to achieve a page that was still comprehensive. The layout I chose was to create the typical navigation bar towards the top (for future pages to develop) with the rest of the regular content beneath. The use of the heading were mainly for sub-topics or direction points, like the contact list. While also using the finer headings (<h5>,<h6>) as context for larger bodies of text or images.
+
+Overall I do believe it aligns with being responsive to a variety of platforms/ screens. The website is able to scale from computer desktop sizes, all the way to phone platforms. It also aligns with the correct HTML tags required with some further sourced development tags that can be used in most website designs. Although I had trouble with understanding how to process what I envision into the stylesheet forms, I feel as though I developed the basics of how to edit and form the basics of a responsive design system.
